@@ -1,0 +1,12 @@
+{
+  "RoutingRules": [
+    {
+      "Condition": {
+        "KeyPrefixEquals": "index.html"
+      },
+      "Redirect": {
+        "ReplaceKeyWith": "error.html"
+      }
+    }
+  ]
+}
