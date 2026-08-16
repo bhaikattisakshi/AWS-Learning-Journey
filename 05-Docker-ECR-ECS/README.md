@@ -109,16 +109,16 @@ Through this project, I learned:
 ## 📸 Project Screenshots
 
 ### Amazon ECR
-![ECR](screenshots/ecr.png)
+![ECR](screenshots/ecr.PNG)
 
 ### ECS Running Task
-![ECS Running Task](screenshots/ecs-running-task.png)
+![ECS Running Task](screenshots/ECS-Running-task.PNG)
 
 ### CloudWatch Logs
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch](screenshots/CloudWatch.PNG)
 
 ### Application
-![Application](screenshots/application.png)
+![Application](screenshots/application.PNG)
 
 ## 👩‍💻 Project Status
 
