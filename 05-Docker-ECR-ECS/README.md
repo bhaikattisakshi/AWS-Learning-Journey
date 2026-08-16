@@ -106,16 +106,19 @@ Through this project, I learned:
 * How IAM roles provide permissions to AWS services
 * How CloudWatch can be used for container logs and monitoring
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Screenshots demonstrating the deployment will be added here:
+### Amazon ECR
+![ECR](screenshots/ecr.png)
 
-* Docker image
-* Amazon ECR repository
-* ECS cluster
-* ECS task
-* CloudWatch logs
-* Running application
+### ECS Running Task
+![ECS Running Task](screenshots/ecs-running-task.png)
+
+### CloudWatch Logs
+![CloudWatch](screenshots/cloudwatch.png)
+
+### Application
+![Application](screenshots/application.png)
 
 ## 👩‍💻 Project Status
 
