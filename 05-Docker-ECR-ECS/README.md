@@ -1,12 +1,4 @@
-# node-todo-cicd
-
-Run these commands:
-
-
-`sudo apt install nodejs`
-
-
-`sudo apt install npm`# 🚀 Dockerized Node.js Application Deployment using Amazon ECR and ECS
+# 🚀 Dockerized Node.js Application Deployment using Amazon ECR and ECS
 
 ## 📌 Project Overview
 
@@ -124,21 +116,9 @@ Screenshots demonstrating the deployment will be added here:
 * ECS task
 * CloudWatch logs
 * Running application
-```
 
 ## 👩‍💻 Project Status
 
 **Completed:** Docker containerization and AWS ECR/ECS deployment.
 
 **Next:** Jenkins-based CI/CD automation.
-
-
-
-`npm install`
-
-`node app.js`
-
-or Run by docker compose
-
-test
-
