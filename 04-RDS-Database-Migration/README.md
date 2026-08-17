@@ -115,22 +115,17 @@ This demonstrates how Amazon RDS can be used as a **managed, scalable, and secur
 
 ## 📸 Screenshots
 
-### RDS Database Overview
-
-![RDS Overview](screenshots/rds-overview.png)
-
-### RDS Connectivity & Security
-
-![RDS Security](screenshots/rds-security.png)
-
 ### EC2 to RDS Connection
 
-![EC2 RDS Connection](screenshots/ec2-rds-connection.png)
+![EC2 to RDS Connection](screenshots/connection.png)
 
-### CRUD Operations
+### Create and Insert Operations
 
-![CRUD Operations](screenshots/crud-operations.png)
+![Create and Insert](screenshots/create-insert.png)
 
+### Update and Delete Operations
+
+![Update and Delete](screenshots/update-delete.png)
 ---
 ## 🎯 Key Learning Outcomes
 
